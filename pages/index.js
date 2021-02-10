@@ -15,7 +15,7 @@ export default function Home() {
           <h1 className="text-2xl font-bold">Seasons</h1>
           <Button label="+ Create Season"></Button>
         </div>
-        <table class="table-fixed my-4 w-full">
+        <table className="w-full my-4 table-fixed">
           <thead>
             <tr>
               <th className="w-1/2 p-2 border">Name</th>
