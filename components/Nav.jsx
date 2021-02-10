@@ -2,7 +2,7 @@ export const Nav = () => {
   return (
     <nav className="fixed z-50 w-full h-12 bg-white bg-opacity-50 border-b blur">
       <ul className="flex items-center justify-center">
-        <NavButton label="League"></NavButton>
+        <NavButton label="Seasons"></NavButton>
         <NavButton label="Teams"></NavButton>
         <NavButton label="Games"></NavButton>
       </ul>
