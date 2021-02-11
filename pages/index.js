@@ -16,7 +16,7 @@ export default function Home() {
           <Button label="+ Create Season"></Button>
         </div>
         <table className="w-full my-4 table-fixed">
-          <thead>
+          <thead>npm 
             <tr>
               <th className="w-1/2 p-2 border">Name</th>
               <th className="w-1/4 p-2 border">Teams</th>
